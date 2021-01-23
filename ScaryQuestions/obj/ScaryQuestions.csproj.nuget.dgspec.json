@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mytas\\source\\repos\\ScaryQuestions\\ScaryQuestions\\ScaryQuestions.csproj": {}
+    "C:\\Users\\altam\\Documents\\GitHub\\PhobiaGenerator\\ScaryQuestions\\ScaryQuestions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mytas\\source\\repos\\ScaryQuestions\\ScaryQuestions\\ScaryQuestions.csproj": {
+    "C:\\Users\\altam\\Documents\\GitHub\\PhobiaGenerator\\ScaryQuestions\\ScaryQuestions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mytas\\source\\repos\\ScaryQuestions\\ScaryQuestions\\ScaryQuestions.csproj",
+        "projectUniqueName": "C:\\Users\\altam\\Documents\\GitHub\\PhobiaGenerator\\ScaryQuestions\\ScaryQuestions.csproj",
         "projectName": "ScaryQuestions",
-        "projectPath": "C:\\Users\\mytas\\source\\repos\\ScaryQuestions\\ScaryQuestions\\ScaryQuestions.csproj",
-        "packagesPath": "C:\\Users\\mytas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mytas\\source\\repos\\ScaryQuestions\\ScaryQuestions\\obj\\",
+        "projectPath": "C:\\Users\\altam\\Documents\\GitHub\\PhobiaGenerator\\ScaryQuestions\\ScaryQuestions.csproj",
+        "packagesPath": "C:\\Users\\altam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\altam\\Documents\\GitHub\\PhobiaGenerator\\ScaryQuestions\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\mytas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\altam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MailKit": {
               "target": "Package",
@@ -69,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

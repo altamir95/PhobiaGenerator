@@ -11,7 +11,7 @@ namespace ScaryQuestions.Models
         public ScaryQuestionsContext(DbContextOptions<ScaryQuestionsContext> options)
             : base(options)
         {
-            //Database.EnsureCreated();   // создаем базу данных при первом обращении
+            Database.EnsureCreated();   // создаем базу данных при первом обращении
         }
     }
 }
